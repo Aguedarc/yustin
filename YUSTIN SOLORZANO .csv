@@ -1,4 +1,4 @@
-"Entity,Code,Year,""GDP per capita (USD),Life satisfaction"
+"Entity,Code,Year,GDP per capita (USD),Life satisfaction"
 Afghanistan,AF,2015,2068.2659,3.36
 Albania,ALB,2015,11878.454,4.655
 Algeria,DZA,2015,11696.95,3.866
@@ -29,7 +29,7 @@ Burkina Faso,BFA,2015,1925.332,5.245
 Burundi,BDI,2015,825.2057,6.481
 Cambodia,KHM,2015,3541.3767,3.956
 Cameroon,CMR,2015,3570.4246,4.236
-Canada,CAN,2015,47522.14,7.087,3.916
+Canada,CAN,2015,47522.14,3.916
 Cape Verde,CPV,2015,6266.882,5.488
 Cayman Islands,CYM,2015,67241.28,5.546
 Central African Republic,CAF,2015,852.7492,6.596
